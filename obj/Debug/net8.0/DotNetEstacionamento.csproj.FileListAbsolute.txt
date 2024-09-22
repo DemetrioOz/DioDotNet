@@ -1,0 +1,14 @@
+D:\c#\DotNetEstacionamento\bin\Debug\net8.0\DotNetEstacionamento.exe
+D:\c#\DotNetEstacionamento\bin\Debug\net8.0\DotNetEstacionamento.deps.json
+D:\c#\DotNetEstacionamento\bin\Debug\net8.0\DotNetEstacionamento.runtimeconfig.json
+D:\c#\DotNetEstacionamento\bin\Debug\net8.0\DotNetEstacionamento.dll
+D:\c#\DotNetEstacionamento\bin\Debug\net8.0\DotNetEstacionamento.pdb
+D:\c#\DotNetEstacionamento\obj\Debug\net8.0\DotNetEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\DotNetEstacionamento\obj\Debug\net8.0\DotNetEstacionamento.AssemblyInfoInputs.cache
+D:\c#\DotNetEstacionamento\obj\Debug\net8.0\DotNetEstacionamento.AssemblyInfo.cs
+D:\c#\DotNetEstacionamento\obj\Debug\net8.0\DotNetEstacionamento.csproj.CoreCompileInputs.cache
+D:\c#\DotNetEstacionamento\obj\Debug\net8.0\DotNetEstacionamento.dll
+D:\c#\DotNetEstacionamento\obj\Debug\net8.0\refint\DotNetEstacionamento.dll
+D:\c#\DotNetEstacionamento\obj\Debug\net8.0\DotNetEstacionamento.pdb
+D:\c#\DotNetEstacionamento\obj\Debug\net8.0\DotNetEstacionamento.genruntimeconfig.cache
+D:\c#\DotNetEstacionamento\obj\Debug\net8.0\ref\DotNetEstacionamento.dll
